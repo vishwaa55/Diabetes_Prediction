@@ -14,7 +14,7 @@ A production-ready machine learning app that estimates diabetes risk from medica
 - Source: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 ## 🌐 Live Demo
-👉 **Streamlit App:**  - https://diabetesprediction-f94ntns3ssfzigoordcadx.streamlit.app/
+👉 **Streamlit App:**  - https://diabetesprediction-cz2rrkntgnurcahpnqfkfb.streamlit.app/
 
 ## ⚙️ How It Works
 1. User enters medical details
